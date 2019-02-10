@@ -1,3 +1,4 @@
+Meetup Vue js LIMA 2019
 # app
 
 ## Project setup
